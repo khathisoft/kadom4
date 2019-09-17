@@ -16,5 +16,7 @@ Kadom command
 
 About
 Kadom is a software programmed and owned by KhathiSoft. Our mission is “make your jobs easier”.
+
 Email: khathisoft@gmail.com
+
 Website: https://khathisoftkadom.wordpress.com
